@@ -89,6 +89,7 @@ public class UserHomePageController {
 		List<Certification> certificationdetails=userservice.findcertificationdetails(user.getUserid());
 		model.addObject("certificationdetails",certificationdetails);
 		System.out.println(certificationdetails.size());
+		System.out.println(documentdetails.size());
 		
 		
 		
