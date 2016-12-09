@@ -90,6 +90,7 @@ public class UserHomePageController {
 		model.addObject("certificationdetails",certificationdetails);
 		System.out.println(certificationdetails.size());
 		System.out.println(documentdetails.size());
+		System.out.println(educationdetails.size());
 		
 		
 		
