@@ -91,6 +91,7 @@ public class UserHomePageController {
 		System.out.println(certificationdetails.size());
 		System.out.println(documentdetails.size());
 		System.out.println(educationdetails.size());
+		System.out.println(experiencedetails.size());
 		
 		
 		
